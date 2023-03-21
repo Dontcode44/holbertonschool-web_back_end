@@ -4,6 +4,7 @@
   "description": "Another Readme inside ES_Basic",
   "main": "0-constants.js",
   "scripts": {
+    "dev": "npx babel-node",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
